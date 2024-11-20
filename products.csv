@@ -1,0 +1,2 @@
+allergens	sku	vegan	kosher	organic	vegetarian	gluten_free	lactose_free	package_quantity	unit_size	net_weight
+['Leche']	29041	False	False	False	True	True	False	1.0	452.0000	452.0000

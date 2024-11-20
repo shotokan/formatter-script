@@ -107,4 +107,4 @@ def fetch_and_save_as_csv(url, file_name):
 
 
 if __name__ == "__main__":
-    fetch_and_save_as_csv(url, "productos.csv")
+    fetch_and_save_as_csv(url, "products.csv")
